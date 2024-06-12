@@ -52,19 +52,11 @@ Visual evidence of model performance provides a clear and concise way to present
 
 This plot shows the consistent accuracy achieved by all models throughout the testing phase.
 
-![Accuracy Plot](images/accuracy_plot.png "Model Accuracy Plot")
+![Accuracy Plot](Plots/model_accuracy_plot.png "Model Accuracy Plot")
 
 #### Confusion Matrix for SVM Classifier
 
-![Confusion Matrix SVM](images/confusion_matrix_svm.png "Confusion Matrix for SVM Classifier")
-
-#### Confusion Matrix for Gaussian Naive Bayes Classifier
-
-![Confusion Matrix GNB](images/confusion_matrix_gnb.png "Confusion Matrix for Gaussian Naive Bayes")
-
-#### Confusion Matrix for Random Forest Classifier
-
-![Confusion Matrix RF](images/confusion_matrix_rf.png "Confusion Matrix for Random Forest")
+![Confusion Matrix SVM](Plots/Confusion_Matrix_SVM_plot.png "Confusion Matrix Accuracy Plots for (SVM, GNB, RF)")
 
 These visuals underscore the precision with which the models have been able to predict each class of diseases, reinforcing the efficacy of the ensemble prediction strategy that combines outputs from multiple models to enhance diagnostic accuracy.
 
