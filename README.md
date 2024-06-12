@@ -56,7 +56,7 @@ This plot shows the consistent accuracy achieved by all models throughout the te
 
 #### Confusion Matrix for SVM Classifier
 
-![Confusion Matrix SVM](Plots/Confusion_Matrix_SVM/Confusion_Matrix_SVM_plot.png "Confusion Matrix Accuracy Plots for (SVM, GNB, RF)")
+![Confusion Matrix SVM](Plots/Confusion_Matrix_SVM_plot.png "Confusion Matrix Accuracy Plots for (SVM, GNB, RF)")
 
 These visuals underscore the precision with which the models have been able to predict each class of diseases, reinforcing the efficacy of the ensemble prediction strategy that combines outputs from multiple models to enhance diagnostic accuracy.
 
